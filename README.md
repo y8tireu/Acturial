@@ -1,4 +1,4 @@
-# actuarial-foss
+# Actuarial
 A curated list of free and open source actuarial software
 
 ## Contributing
